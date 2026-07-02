@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
+Beyond merely passing test cases, rigorous proof of correctness in DSA instills a profound confidence that your solution holds true for all possible inputs, guaranteeing robustness and intellectual integrity.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* For every LeetCode problem you solve, explicitly write down the invariant properties of your algorithm and a brief argument for its termination.
 
 <!-- THOUGHT_END -->
 
