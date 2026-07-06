@@ -4,7 +4,7 @@
 
 A formal correctness analysis (loop invariants, termination proofs) saves hours of downstream debugging.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 
