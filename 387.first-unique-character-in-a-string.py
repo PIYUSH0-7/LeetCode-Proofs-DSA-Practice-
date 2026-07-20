@@ -1,0 +1,20 @@
+#
+# @lc app=leetcode id=387 lang=python3
+#
+# [387] First Unique Character in a String
+#
+
+# @lc code=start
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        char_counts = {}
+
+        for char in s:
+            char_counts[char] = char_counts.get(char, 0) + 1
+
+        for i, char in enumerate(s):
+            if char_counts[char] == 1:
+                return i
+
+        return -1
+# @lc code=end
