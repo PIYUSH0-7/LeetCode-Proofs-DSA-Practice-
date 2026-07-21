@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Do not just pass the tests; understand *why* the mathematical properties of the algorithm guarantee correctness.
+Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
