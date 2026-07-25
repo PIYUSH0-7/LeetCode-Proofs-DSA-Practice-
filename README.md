@@ -4,7 +4,7 @@
 
 Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
