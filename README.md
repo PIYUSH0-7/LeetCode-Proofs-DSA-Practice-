@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
+A formal correctness analysis (loop invariants, termination proofs) saves hours of downstream debugging.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
