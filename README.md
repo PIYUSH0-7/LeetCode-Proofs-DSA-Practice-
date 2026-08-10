@@ -4,7 +4,7 @@
 
 Do not just pass the tests; understand *why* the mathematical properties of the algorithm guarantee correctness.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
