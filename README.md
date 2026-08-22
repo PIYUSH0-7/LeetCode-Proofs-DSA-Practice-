@@ -4,7 +4,7 @@
 
 A formal correctness analysis (loop invariants, termination proofs) saves hours of downstream debugging.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
